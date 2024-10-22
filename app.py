@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import torch
 import torchvision.transforms as transforms
@@ -152,4 +151,3 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> 04be3fb (Initial commit)

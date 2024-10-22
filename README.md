@@ -1,4 +1,4 @@
 
 # Malaysia-Ringgit-CNNClassification
 =======
-# Project for univeristy propose
+Project for univeristy propose
